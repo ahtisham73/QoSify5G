@@ -1,6 +1,6 @@
 ## 🌐📡QoSify5G: Resource Allocation Prediction & QoS Optimization in 5G Networks
 ---
-![Alt text](5G theme.jpg)
+![Alt text](https://github.com/ahtisham73/QoSify5G/blob/main/5G%20theme.jpg?raw=true)
 
 
 
